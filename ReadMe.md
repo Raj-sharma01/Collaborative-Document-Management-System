@@ -20,9 +20,8 @@ Collaborative Document Management System is a MERN (MongoDB, Express.js, React.j
 ## Getting Started with Docker 🚀
 1. Clone the repository, navigate to the project directory, and start Docker containers:
    ```bash
-   git clone <repository-url>
-   cd <project-name> 
-   docker compose up
+   git clone https://github.com/Raj-sharma01/Collaborative-Document-Management-System.git && cd Collaborative-Document-Management-System && docker compose up
+ > **⚠️Note:** Make sure you are NOT using a VPN 🔒 and Docker Engine 🐳 is running .
 
 2. Open your browser and navigate to http://localhost:5173 to access the application. 🌐
 
